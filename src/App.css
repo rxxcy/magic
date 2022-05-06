@@ -1,0 +1,29 @@
+.container {
+  padding-top: 3em;
+  max-width: 55%;
+  margin: 0 auto;
+}
+.choose {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+.choose input {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  opacity: 0;
+  font-size: 200px;
+}
+.preview {
+  /* margin-top: 30px; */
+  width: 170px;
+}
+.password {
+  width: 360px;
+  margin-bottom: 0.5em;
+}
+.en-password {
+  width: 360px;
+  margin-bottom: 0.5em;
+}
